@@ -1,20 +1,20 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
  <modelVersion>4.0.0</modelVersion>
 
- <groupId>com.corundumstudio.socketio</groupId>
+ <groupId>com.github.cheeonn9322</groupId>
  <artifactId>netty-socketio</artifactId>
- <version>1.7.19-SNAPSHOT</version>
+ <version>1.7.19</version>
  <packaging>bundle</packaging>
  <name>NettySocketIO</name>
  <description>Socket.IO server implemented on Java</description>
  <inceptionYear>2012</inceptionYear>
- <url>https://github.com/mrniko/netty-socketio</url>
+ <url>https://github.com/cheeonn9322/netty-socketio</url>
 
  <scm>
-    <url>scm:git:git@github.com:mrniko/netty-socketio.git</url>
-    <connection>scm:git:git@github.com:mrniko/netty-socketio.git</connection>
-    <developerConnection>scm:git:git@github.com:mrniko/netty-socketio.git</developerConnection>
-   <tag>HEAD</tag>
+    <url>scm:git:git@github.com:cheeonn9322/netty-socketio.git</url>
+    <connection>scm:git:git@github.com:cheeonn9322/netty-socketio.git</connection>
+    <developerConnection>scm:git:git@github.com:cheeonn9322/netty-socketio.git</developerConnection>
+   <tag>1.7.19</tag>
   </scm>
 
  <licenses>
